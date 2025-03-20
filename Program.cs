@@ -1,4 +1,5 @@
-class Carro{
+class Carro
+{
     public string? Modelo { get; set; }
     public double ValorPorHora { get; set; } = 10.0;
 }
