@@ -1,7 +1,4 @@
-﻿using System;
-
-class Carro
-{
+class Carro{
     public string? Modelo { get; set; }
     public double ValorPorHora { get; set; } = 10.0;
 }
@@ -16,7 +13,7 @@ class Locacao : Carro
     public double Imposto { get; private set; }
     public double Total { get; private set; }
 
-    // Construtor
+
     public Locacao(string modelo, int horaInicial, int horaFinal)
     {
         Modelo = modelo;
@@ -24,7 +21,7 @@ class Locacao : Carro
         HoraFinal = horaFinal;
     }
 
-    // Método para validar as horas
+
     public void ValidarHoras()
     {
         if (HoraInicial < 0 || HoraInicial > 23 || HoraFinal < 0 || HoraFinal > 23)
@@ -33,28 +30,28 @@ class Locacao : Carro
         }
     }
 
-    // Método para calcular o valor da locação
+
     public void CalcularValores()
     {
         Duracao = HoraFinal - HoraInicial;
 
-        // Caso a hora final seja menor que a hora inicial, a locação ultrapassa a meia-noite.
+       
         if (Duracao <= 0)
         {
-            Duracao += 24; // Ajustando a duração para considerar o cruzamento de meia-noite.
+            Duracao += 24; 
         }
 
-        // Calculando o valor da locação
+     
         ValorLocacao = Duracao * ValorPorHora;
 
-        // Aplicando imposto com base no valor da locação
+    
         Imposto = ValorLocacao <= 100 ? ValorLocacao * 0.20 : ValorLocacao * 0.15;
 
-        // Total final da locação
+
         Total = ValorLocacao + Imposto;
     }
 
-    // Exibindo o recibo
+
     public void ExibirRecibo()
     {
         Console.WriteLine("\n--- RECIBO DE LOCAÇÃO ---");
@@ -81,13 +78,13 @@ class Program
 
         Locacao locacao = new Locacao(modelo, horaInicial, horaFinal);
 
-        // Validação de horas
+
         locacao.ValidarHoras();
 
-        // Calcular os valores da locação
+ 
         locacao.CalcularValores();
 
-        // Exibir recibo
+
         locacao.ExibirRecibo();
     }
 }
