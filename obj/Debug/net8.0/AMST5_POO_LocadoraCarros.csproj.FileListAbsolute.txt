@@ -12,3 +12,4 @@ C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\refint\AMST5_POO_Locador
 C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.pdb
 C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.genruntimeconfig.cache
 C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\ref\AMST5_POO_LocadoraCarros.dll
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.sourcelink.json
