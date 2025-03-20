@@ -55,12 +55,12 @@ class Locacao : Carro
 
     public void ExibirRecibo()
     {
-        Console.WriteLine("\n--- RECIBO DE LOCAÇÃO ---");
+        Console.WriteLine("-Recibo da Locação-");
         Console.WriteLine($"Modelo do carro: {Modelo}");
         Console.WriteLine($"Duração: {Duracao} horas");
-        Console.WriteLine($"Valor da locação: R$ {ValorLocacao:F2}");
-        Console.WriteLine($"Imposto: R$ {Imposto:F2}");
-        Console.WriteLine($"Total a pagar: R$ {Total:F2}");
+        Console.WriteLine($"Valor da locação: R$ {ValorLocacao}");
+        Console.WriteLine($"Imposto: R$ {Imposto}");
+        Console.WriteLine($"Total a pagar: R$ {Total}");
     }
 }
 
