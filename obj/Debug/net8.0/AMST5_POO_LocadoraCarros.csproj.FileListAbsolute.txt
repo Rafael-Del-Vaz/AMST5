@@ -1,0 +1,14 @@
+C:\C#\projeto\AMST5_POO_LocadoraCarros\bin\Debug\net8.0\AMST5_POO_LocadoraCarros.exe
+C:\C#\projeto\AMST5_POO_LocadoraCarros\bin\Debug\net8.0\AMST5_POO_LocadoraCarros.deps.json
+C:\C#\projeto\AMST5_POO_LocadoraCarros\bin\Debug\net8.0\AMST5_POO_LocadoraCarros.runtimeconfig.json
+C:\C#\projeto\AMST5_POO_LocadoraCarros\bin\Debug\net8.0\AMST5_POO_LocadoraCarros.dll
+C:\C#\projeto\AMST5_POO_LocadoraCarros\bin\Debug\net8.0\AMST5_POO_LocadoraCarros.pdb
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.AssemblyInfoInputs.cache
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.AssemblyInfo.cs
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.csproj.CoreCompileInputs.cache
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.dll
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\refint\AMST5_POO_LocadoraCarros.dll
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.pdb
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\AMST5_POO_LocadoraCarros.genruntimeconfig.cache
+C:\C#\projeto\AMST5_POO_LocadoraCarros\obj\Debug\net8.0\ref\AMST5_POO_LocadoraCarros.dll
